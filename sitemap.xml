@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>thinkstoomuch.net/post/ah1systems/</loc>
+    <lastmod>2024-12-28T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>thinkstoomuch.net/post/</loc>
+    <lastmod>2024-12-28T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>thinkstoomuch.net/</loc>
+    <lastmod>2024-12-28T21:00:00-05:00</lastmod>
+  </url><url>
     <loc>thinkstoomuch.net/post/helloworld/</loc>
   </url><url>
     <loc>thinkstoomuch.net/post/clucktastrophy/</loc>
@@ -18,16 +27,10 @@
   </url><url>
     <loc>thinkstoomuch.net/post/christmas24/</loc>
   </url><url>
-    <loc>thinkstoomuch.net/post/ah1systems/</loc>
-  </url><url>
     <loc>thinkstoomuch.net/post/50rdtrain/</loc>
   </url><url>
     <loc>thinkstoomuch.net/categories/</loc>
   </url><url>
-    <loc>thinkstoomuch.net/post/</loc>
-  </url><url>
     <loc>thinkstoomuch.net/tags/</loc>
-  </url><url>
-    <loc>thinkstoomuch.net/</loc>
   </url>
 </urlset>
