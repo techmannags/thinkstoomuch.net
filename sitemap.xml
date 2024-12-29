@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/post/helloworld/</loc>
+    <lastmod>2024-11-22T21:00:00-05:00</lastmod>
+  </url><url>
     <loc>/post/ah1systems/</loc>
     <lastmod>2024-12-28T21:00:00-05:00</lastmod>
   </url><url>
@@ -11,21 +14,26 @@
     <loc>/</loc>
     <lastmod>2024-12-28T21:00:00-05:00</lastmod>
   </url><url>
-    <loc>/post/helloworld/</loc>
-  </url><url>
-    <loc>/post/clucktastrophy/</loc>
-  </url><url>
-    <loc>/post/buyingagun/</loc>
-  </url><url>
-    <loc>/post/atheistoccult/</loc>
-  </url><url>
-    <loc>/post/selfishsnips/</loc>
-  </url><url>
-    <loc>/post/datingapps/</loc>
+    <loc>/post/christmas24/</loc>
+    <lastmod>2024-12-25T21:00:00-05:00</lastmod>
   </url><url>
     <loc>/post/worklife1/</loc>
+    <lastmod>2024-12-19T21:00:00-05:00</lastmod>
   </url><url>
-    <loc>/post/christmas24/</loc>
+    <loc>/post/datingapps/</loc>
+    <lastmod>2024-12-15T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/post/selfishsnips/</loc>
+    <lastmod>2024-12-08T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/post/atheistoccult/</loc>
+    <lastmod>2024-12-02T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/post/buyingagun/</loc>
+    <lastmod>2024-11-26T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/post/clucktastrophy/</loc>
+    <lastmod>2024-09-15T21:00:00-05:00</lastmod>
   </url><url>
     <loc>/post/50rdtrain/</loc>
   </url><url>
