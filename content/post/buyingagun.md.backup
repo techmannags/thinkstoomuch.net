@@ -1,10 +1,8 @@
 ---
-title: "So You're Buying a Gun"
-date: 2024-11-26T21:00:00-05:00
+title: "2024/11/26 So You're Buying a Gun"
+output: hugodoc
 params:
-    author: Nagaram
 data:
-draft: false
 ---
 Welcome to firearms ownership! This document is to help you learn the basics and give you the
 fundamental skills necessary to defend yourself and your loved ones.

@@ -1,5 +1,5 @@
 ---
-title: "2024/12/28 Dedications to Myself"
+title: "Dedications to Myself"
 date: 2024-12-28T21:00:00-05:00
 params:
     author: Nagaram
