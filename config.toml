@@ -14,7 +14,7 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
 [Author] # Used in authorbox
   name = "Nagaram"
   bio = "Nagaram is a knower of many things but an understander of none!"
-  avatar = "img/avatar.png"
+  avatar = "/static/assets/avatar.png"
 
 [Params]
   description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
