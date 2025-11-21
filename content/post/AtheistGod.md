@@ -1,6 +1,6 @@
 ---
 title: "On an Atheist Conception of God"
-date: 2025-11-21T21:00:00-05:00
+date: 2025-11-21
 params:
     author: Nagaram
 data:
@@ -9,7 +9,7 @@ draft: false
 
 Gods and worship have been quintessential aspect of the human experience since all of known human history. Yet, there are those of us who have chosen to defy these well established rules of society. Why you have chosen to abandon a creator framework for life is, to me, irrelevant, but I do want to make a claim that the conception for god is a useful tool for navigating life and our journey of self discovery and self improvement.
 
-#Why should I care about "god"?
+## Why should I care about "god"?
 
 Gods have always been a societal tool and a personal tool in my eyes. It's an abstract rallying point that gives common language and experience between otherwise wholly unrelated humans. Think of a modern Church, Synagoge, or Temple of any sort. They are less interesting as a lecture hall on a thousands year old book than they are as communal halls to give people from all walks of life a reason to interact with each other. It's a neutral ground where teachers, laborers, bankers, and so on may meet and form relationships that may have otherwise never happened.
 
@@ -25,7 +25,7 @@ My favorite atheist debunking of religion is The Milk Jug Experiment. For those 
 
 Now, the point of that exercise is to demonstrate the pointlessnes of prayer, but I think it demonstrates the abstract benefit of prayer in that you now have a scape goat to save your ego.
 
-#Ego and gods
+## Ego and gods
 
 Consider the convenience of blaming your problems on someone else. Sure, it's a dick move to throw someone under the bus, but it really is a convenient mental load balancer if you don't have a conscious or you hate that other person. You have worked hard to reach a goal, but that goal was always dependant on many stars aligning that are far outside your control. You can only do so much to manifest the outcome that you desire physically but you have no control over these, from your perspective, completely probabilistic events. This is where Prayer comes in.
 
@@ -37,7 +37,7 @@ You have now psychologically tied your odds of winning to the will of a probably
 
 There's even something to be said for the perks of ritual worship.
 
-#Habits, Rituals, Gods
+## Habits, Rituals, Gods
 
 A feature of mine if my love of occult rituals and the book "Atomic Habits" by James Clear. In "Atomic Habits", James talks about affirmations and "Habit Stacking". The idea is that to reach a goal, you are more likely to achieve that goal if you build a solid habit around working towards that goal and those are two tricks to building those habits. 
 

@@ -1,22 +1,27 @@
 baseurl = "/"
 title = "Thinks Too Much"
 languageCode = "en-us"
-paginate = "10" # Number of elements per page in pagination
 theme = "binario"
 disqusShortname = "" # DEPRECATED! Use .Services.Disqus.Shortname
 googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
+
+[pagination]
+  pagerSize = "100" # Number of elements per page in pagination
 
 [services.disqus]
   shortname = "" # Enable Disqus by entering your Disqus shortname
 [services.googleAnalytics]
   ID = "" # Enable Google Analytics by entering your tracking ID
 
-[Author] # Used in authorbox
-  name = "Nagaram"
-  bio = "Nagaram is a knower of many things but an understander of none!"
-  avatar = "/static/assets/avatar.png"
+#[Author] # Used in authorbox
+#  name = "Nagaram"
+#  bio = "Nagaram is a knower of many things but an understander of none!"
+#  avatar = "/static/assets/avatar.png"
 
 [Params]
+  [params.author]
+    name = "Nagaram"
+    email = "nags@thinkstoomuch.net"
   description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
   copyright = "Binario" # Copyright holder, otherwise will use .Site.Title
   opengraph = true # Enable OpenGraph if true
