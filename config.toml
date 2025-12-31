@@ -69,6 +69,7 @@ googleAnalytics = "" # DEPRECATED! Use .Services.googleAnalytics.ID
   #stackoverflow = "numberid"
   mastodon = "https://hachyderm.io/@nagaram"
   bluesky = "https://bsky.app/profile/yeenagaram.bsky.social"
+  rss = "https://thinkstoomuch.net/index.xml"
 
 [Params.Share] # Entry Share block
   #facebook = true
