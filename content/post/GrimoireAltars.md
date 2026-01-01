@@ -1,10 +1,10 @@
 ---
 title: "Grimoire of an Atheist: Altars"
-date: 2025-12-12
+date: 2026-01-01
 params:
     author: Nagaram
 data:
-draft: true
+draft: false
 ---
 
 ---
@@ -24,21 +24,24 @@ The feathers I've collected from various places and types of birds (none I kille
 
 Fire - Candles and Incense. Candles and incense are such an essential aspect of modern witchcraft and occultism that you can find lists of meanings and uses for certain colors and scents all over. Since I'm an atheist, I know it doesn't matter and gave myself meaning and uses. Hell, I "summoned a demon" using battery powered tea lights and a essential oil diffuser because my dorm banned candles. So I have three preferred candle colors: red, green, purple. When I am working, I burn a red candle. When I am meditatating, a green candle (placed on the higher shelf of the altar). When I am relaxing, the purple candle. 
 
-Why those colors? I really like the color red and the other two were on sale at Hobby Lobby so I bought a bunch.
+Why those colors? I really like the color red and the other two were on sale at Hobby Lobby so I bought a bunch. The color symbolism is arbitrary to me. You can follow the traditional standards of chakra candles if you so wish. Or maybe certain colors remind you of certain contexts you wish to evoke. In a way, red does good as a working color because my childhood school's colors were always red and some others. So I associate red with focus and academic work.
+
+## Things to Include by meaning (CW: Dead Animal Mention)
+This sorta stuff really gives you and excuse to collect knick-knacks and baubles of all sorts. I enjoy collecting carved semi-precious stone statues, sexual idols, and animal remains.
+
+The stone statues I collect are pretty boring. I was gifted a Blood stone skull by a dear friend and I already had a ceramic skull paper weight my dad had given me as a child from his own days of collecting haunted looking objects (he was a Cathoilic not an occultist, but he liked having props in front of his Dungeons and Dragons screen while Dungeon Mastering). So now I collect well done stone skulls.
+
+The sexual idols kinda started as a bit. I also 3D print a lot and I love printing a penis shaped character called Ding Ding to test out calibrations, colors, and new printers. So my house is covered in little penis guys and some naturally ended up on all my altars. Then years later, my fiance and I were at a rock and gem show where someone was selling female bodies with an uncomfortable spine curvature, fine tits, and a ridiculous ass. So we bought some of those in various stones since we must balance feminine and masculine energies to achieve peak post-gender god like status as it were. 
+
+Animal remains was a conflicting call for me. I found a really well cleaned and reconstructed Cyote skull at a different rock and gem show early on in my altar building days. However, I didn't know if I wanted to include it because it felt like I was evoking animal sacrifice imagry into my altar. And that is a fair read on my altar but not what I personally feel. For me its a Stoic reminder of our own mortality. I will die just as Mr. Bones died. I also have the preserved jarred body of a baby albino snake I bought at a reptile show. That one had similar symbolism too it but with the added allussion to the alchemical symbol of the ouroboros. Maybe the snake means more in that the cycle will end one day with death. Maybe it's just a cool morbid knick-knack.
+
+You can really include whatever brings you back to a sense of mindful reflections is the point. I have a friend who's altar is exclusively for her crafted stuff like little statues and fairy homes. And what is a Christmas village or a Model Train table but an altar like zen garden with tiny people and tiny trains?
+
+I may even be convinced of a digital altar like this one where I am simply meditating on my own actions publicly!
 
 
 
-
-If it pleases you, one could say it's a grounding point to remember the assigned feminine attributes that we should all experience and true balance comes from mastery of the feminine and masculine parts of life making us genderless gods once we've reobtained our whole power by superseding the binary!
-
-Altars are the physical manifestation of a higher consciousness. It is where we worship the spiritual ideal. They are living works of art that represent the true us through 
 
 ## What is an Altar to me
 
-My altar is a place for ritual. It's a grounding space for me that I use to take me out of whatever mindset I'm in and enter into an appropriate one. It's my portal into my own psyche and my own place to
-
-## What is in an Altar
-
-Altars can be constructed of anything for anything. The important part is that this is a space for you to maintain a physical connection to your practice. Whether you are actually worshipping something or worshipping yourself or some weird pseudo god idea, this is a part of your physical space
-
-My altar is from Oberron Zell-Ravenloft's "Grimoire for the Apprentice Wizard". Though the book feels like a mad man explaining how to be so unhinged that no one bothers approaching him. It follows a basic structure of two tiers and four elements.
+My altar is a place for ritual. It's a grounding space for me that I use to take me out of whatever mindset I'm in and enter into an appropriate one. It's my portal into my own psyche and my own place of control. It is also we're I keep reminders of things dear to me. Friends from years past. Memories of old versions of myself. Reminders that life is fluid and that I grow.
