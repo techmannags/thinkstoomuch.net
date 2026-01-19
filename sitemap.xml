@@ -5,13 +5,16 @@
     <loc>/post/helloworld/</loc>
     <lastmod>2024-11-22T21:00:00-05:00</lastmod>
   </url><url>
-    <loc>/post/grimoirealtars/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <loc>/post/anythinginteresting/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/grimoirealtars/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/indefenceofbadbooks/</loc>
@@ -54,8 +57,6 @@
     <lastmod>2024-09-15T21:00:00-05:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/post/anythinginteresting/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
