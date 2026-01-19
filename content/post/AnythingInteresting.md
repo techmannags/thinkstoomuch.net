@@ -1,6 +1,6 @@
 ---
 title: "Grimoire of an Atheist: Anything Interesting"
-date: 2026-01-
+date: 2026-01-18
 params:
     author: Nagaram
 data:
