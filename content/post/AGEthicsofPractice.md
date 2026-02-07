@@ -1,6 +1,6 @@
 ---
 title: "Grimoire of an Atheist: Ethics of Practice"
-date: 2026-2-6
+date: 2026-02-06
 params:
     author: Nagaram
 data:
