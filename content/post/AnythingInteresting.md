@@ -15,7 +15,7 @@ I let it play through the one's I queued up because I wanted to listen to Justin
 
 I'm generally not interested in the mind of a man who starts off a discussion equating "religion" to "wokeism" because "wokeism" isn't a word used by someone wanting to have a good faith discussion about something they don't like or don't understand, but that realization made me want to know more about him because I think he is the quintessential disenchanted man.
 
-##Enchanted versus Disenchanted world views
+## Enchanted versus Disenchanted world views
 
 I have been reading "Western Esotericism: A Guide for the Perplexed" by Wouter Hanegraaff to sort of give me a better framework for interpreting occultism or "Western Esoterica" as is apparently the more correct idea. And one of the frameworks that really sings to me is the idea of the Enchanted World. In short, through most all of human history, religion, philosophy, and science have been very powerfully intertwined. For the most part this was due to necessity. We don't have enough answers in any one "field" to really constitute it being a separate field. So, we keep them combined and inseparable for millennia.
 
